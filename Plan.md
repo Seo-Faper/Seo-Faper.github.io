@@ -1,3 +1,6 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5SLDIgev8zI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+읽기 전 재생 하시오. 
+
 # 서울 여행 계획
 ### 각자의 취향 차이가 명확히 나는 관계로 건우는 2박 3일을 선호 했고 태환은 1박 2일을 선호 했다. 태환이가 1박 2일을 선호하는 이유는 부족한 컨텐츠(고궁 탐방, 번지 점프 등등..)으로 무료한 시간을 보낼 것으로 예상되었기 때문이다.  
 
