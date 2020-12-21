@@ -13,5 +13,5 @@ categories: jekyll update
 > 해당 프로젝트는 이 글을 토대로 작성되었음을 알림.
 
 ---
-asd
+가상머신에서 실행했음. 
 ---
