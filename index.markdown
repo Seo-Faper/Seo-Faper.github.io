@@ -4,4 +4,3 @@
 
 layout: home
 ---
-블로그 홈
