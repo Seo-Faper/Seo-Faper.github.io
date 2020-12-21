@@ -28,7 +28,7 @@ url: "https://github.com/Seo-Faper/Seo-Faper.github.io" # the base hostname & pr
 github_username:  Seo-Faper
 
 # Build settings
-theme: no-style-please 
+theme: minima
 plugins:
   - jekyll-feed
 
