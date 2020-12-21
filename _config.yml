@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   CALDERA for ICS 연구를 진행하면서 알게 된 지식을 정리하는 블로그
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username:  Seo-Faper
 
 # Build settings
 theme: minima
