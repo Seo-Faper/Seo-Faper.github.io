@@ -4,14 +4,8 @@ title:  "1.CALDERA 설치 하기"
 date:   2020-12-22 01:12:07 +0900
 categories: jekyll update
 ---
-제목 : 1. CALDERA 설치 하기
-===
----
->github에서 해당 프로젝트를 다운 받을 수 있다.
-> 기본적으로 ``리눅스`` 만 지원한다.
-> https://www.mitre.org/research/technology-transfer/open-source-software/caldera%E2%84%A2
-> 해당 프로젝트는 이 글을 토대로 작성되었음을 알림.
 
----
-가상머신에서 실행했음. 
----
+CALDEAR 란 MITRE ATT&CK® 에서 제작한 보안 프레임 워크이다.
+ [https://github.com/mitre/caldera](https://github.com/mitre/caldera/)
+ 해당 링크를 통해 소스코드를 확인 할 수 있다.
+ 기본적으로 **리눅스**에서만 동작하는 프레임 워크이다.
